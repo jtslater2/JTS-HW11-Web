@@ -1,5 +1,5 @@
 # JTS-HW11-Web
-Website deployed to https://github.com/jtslater2/jtslater2.github.io
+Website deployed to https://github.com/jtslater2.github.io
 
 
 The html files are located in the Starter Code Folder
